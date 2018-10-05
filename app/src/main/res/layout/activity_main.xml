@@ -5,9 +5,9 @@
     android:orientation="vertical">
 
     <ListView
-        android:id="@+id/oldEmotionsList"
+        android:id="@+id/oldFeelingsList"
         android:layout_width="fill_parent"
-        android:layout_height="415dp" />
+        android:layout_height="414dp" />
 
     <Button
         android:id="@+id/add"
